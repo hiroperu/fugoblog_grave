@@ -2,24 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hiroperu.github.io/hiroperuLifeLog/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://hiroperu.github.io/hiroperuLifeLog/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hiroperu.github.io/hiroperuLifeLog/en/categories/"
-                />
-  </url><url>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/en/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/</loc>
+    <lastmod>2022-02-05T15:12:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -33,10 +17,37 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.io/hiroperuLifeLog/en/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/"
                 />
   </url><url>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/en/series/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/posts/myfirstpost/</loc>
+    <lastmod>2022-02-05T15:12:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/posts/</loc>
+    <lastmod>2022-02-05T15:12:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/about/</loc>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/archive/</loc>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hiroperu.github.io/hiroperuLifeLog/categories/"
+                />
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -50,10 +61,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.io/hiroperuLifeLog/en/series/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/series/"
                 />
   </url><url>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/en/tags/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -67,7 +78,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.io/hiroperuLifeLog/en/tags/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/tags/"
                 />
   </url>
 </urlset>

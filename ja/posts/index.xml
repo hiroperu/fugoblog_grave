@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on Hiroperu&#39;s Life</title>
+    <title>Post section on Hiroperu&#39;s Life</title>
     <link>https://hiroperu.github.io/hiroperuLifeLog/ja/posts/</link>
-    <description>Recent content in Posts on Hiroperu&#39;s Life</description>
+    <description>Recent content in Post section on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>secret (Hiroperu)</managingEditor>

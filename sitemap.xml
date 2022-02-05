@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/sitemap.xml</loc>
-    
-      <lastmod>2022-02-05T15:12:09+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://hiroperu.github.io/hiroperuLifeLog/ko/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/</loc>
+    <lastmod>2022-02-05T15:12:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/posts/myfirstpost/</loc>
+    <lastmod>2022-02-05T15:12:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/posts/</loc>
+    <lastmod>2022-02-05T15:12:09+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/about/</loc>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/archive/</loc>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/</loc>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/series/</loc>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/</loc>
+  </url>
+</urlset>
