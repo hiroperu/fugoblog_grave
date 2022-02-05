@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/</loc>
     <lastmod>2022-02-05T15:12:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/en/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ko/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ja/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ja/"
                 />
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/posts/myfirstpost/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/posts/myfirstpost/</loc>
     <lastmod>2022-02-05T15:12:09+09:00</lastmod>
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/posts/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/posts/</loc>
     <lastmod>2022-02-05T15:12:09+09:00</lastmod>
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/about/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/about/</loc>
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/categories/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/en/categories/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ko/categories/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ja/categories/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ja/categories/"
                 />
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/index/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/tags/index/</loc>
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/series/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/en/series/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ko/series/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ja/series/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ja/series/"
                 />
   </url><url>
-    <loc>https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/</loc>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/en/tags/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ko/tags/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/"
+                href="https://hiroperu.github.io/hiroperuLifeLog/ja/tags/"
                 />
   </url>
 </urlset>
