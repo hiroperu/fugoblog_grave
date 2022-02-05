@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Hiroperu&#39;s Life</title>
+    <link>https://hiroperu.github.ip/hiroperuLifeLog/ja/posts/</link>
+    <description>Recent content in Posts on Hiroperu&#39;s Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>secret (Hiroperu)</managingEditor>
+    <webMaster>secret (Hiroperu)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 05 Feb 2022 15:12:09 +0900</lastBuildDate>
+    
+        <atom:link href="https://hiroperu.github.ip/hiroperuLifeLog/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Myfirstpost</title>
+        <link>https://hiroperu.github.ip/hiroperuLifeLog/ja/posts/myfirstpost/</link>
+        <pubDate>Sat, 05 Feb 2022 15:12:09 +0900</pubDate>
+        <author>secret (Hiroperu)</author>
+        <atom:modified>Sat, 05 Feb 2022 15:12:09 +0900</atom:modified>
+        <guid>https://hiroperu.github.ip/hiroperuLifeLog/ja/posts/myfirstpost/</guid>
+        <description>こんにちは！だらだら更新していきたい。</description>
+        
+        <dc:creator>Hiroperu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

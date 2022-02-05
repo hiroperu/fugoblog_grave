@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Hiroperu&#39;s Life</title>
+    <link>https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/</link>
+    <description>Recent content in Tags on Hiroperu&#39;s Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>secret (Hiroperu)</managingEditor>
+    <webMaster>secret (Hiroperu)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    
+        <atom:link href="https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>index</title>
+        <link>https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>secret (Hiroperu)</author>
+        
+        <guid>https://hiroperu.github.ip/hiroperuLifeLog/ja/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>Hiroperu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
