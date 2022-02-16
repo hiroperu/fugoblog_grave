@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/</link>
-    <description>Recent content on Hiroperu&#39;s Life</description>
+    <title>日常 on Hiroperu&#39;s Life</title>
+    <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 日常 on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>secret (Hiroperu)</managingEditor>
@@ -16,29 +16,8 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 16 Feb 2022 23:36:10 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
 
       
       <item>
@@ -121,24 +100,6 @@
               <category>買った物</category>
             
           
-        
-        
-      </item>
-      
-      <item>
-        <title>Myfirstpost</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/myfirstpost/</link>
-        <pubDate>Sat, 05 Feb 2022 15:12:09 +0900</pubDate>
-        <author>secret (Hiroperu)</author>
-        <atom:modified>Sat, 05 Feb 2022 15:12:09 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/myfirstpost/</guid>
-        <description>こんにちは！だらだら更新していきたい。</description>
-        
-        <dc:creator>hiroperu</dc:creator>
-        
-        
-        
-        
         
         
       </item>
