@@ -14,11 +14,65 @@
     <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
     <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 22 Feb 2022 23:53:58 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 18:36:08 +0900</lastBuildDate>
     
         <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話</title>
+        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</link>
+        <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        <atom:modified>Thu, 24 Feb 2022 18:36:08 +0900</atom:modified>
+        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</guid>
+        <description>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話 このブログはHugoを使って作成し、ホスティングをgithub.io</description>
+        
+        <dc:creator>hiroperu</dc:creator>
+        
+        
+        <media:content url="https://hiroperu.github.io/hiroperuLifeLog//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>hugo</category>
+            
+          
+            
+              <category>github</category>
+            
+          
+            
+              <category>Github Actions</category>
+            
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+          
+            
+              <category>技術</category>
+            
+          
+            
+              <category>Github</category>
+            
+          
+            
+              <category>GithubActions</category>
+            
+          
+            
+              <category>CICD</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>アズールレーンはいいぞ！という話</title>

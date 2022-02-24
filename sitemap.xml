@@ -2,17 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/blog/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
     <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/</loc>
-    <lastmod>2022-02-22T23:53:58+09:00</lastmod>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/cicd/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/github/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/github/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/github-actions/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/githubactions/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
   </url><url>
     <loc>https://hiroperu.github.io/hiroperuLifeLog/</loc>
-    <lastmod>2022-02-22T23:53:58+09:00</lastmod>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/hugo/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
   </url><url>
     <loc>https://hiroperu.github.io/hiroperuLifeLog/posts/</loc>
-    <lastmod>2022-02-22T23:53:58+09:00</lastmod>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
   </url><url>
     <loc>https://hiroperu.github.io/hiroperuLifeLog/tags/</loc>
-    <lastmod>2022-02-22T23:53:58+09:00</lastmod>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
+  </url><url>
+    <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2022-02-24T18:36:08+09:00</lastmod>
   </url><url>
     <loc>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</loc>
     <lastmod>2022-02-22T23:53:58+09:00</lastmod>
