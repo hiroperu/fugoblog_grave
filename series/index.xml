@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/series/</link>
+    <link>https://hiroperu.github.io/series/</link>
     <description>Recent content in Series on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -15,7 +15,7 @@
     <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/categories/</link>
+    <link>https://hiroperu.github.io/categories/</link>
     <description>Recent content in Categories on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 24 Feb 2022 18:36:08 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>CICD</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/cicd/</link>
+        <link>https://hiroperu.github.io/categories/cicd/</link>
         <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/cicd/</guid>
+        <guid>https://hiroperu.github.io/categories/cicd/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Github</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/github/</link>
+        <link>https://hiroperu.github.io/categories/github/</link>
         <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/github/</guid>
+        <guid>https://hiroperu.github.io/categories/github/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>GithubActions</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/githubactions/</link>
+        <link>https://hiroperu.github.io/categories/githubactions/</link>
         <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/githubactions/</guid>
+        <guid>https://hiroperu.github.io/categories/githubactions/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>技術</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%8A%80%E8%A1%93/</link>
+        <link>https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/</link>
         <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%8A%80%E8%A1%93/</guid>
+        <guid>https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>おすすめ</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</link>
+        <link>https://hiroperu.github.io/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</link>
         <pubDate>Tue, 22 Feb 2022 23:53:58 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</guid>
+        <guid>https://hiroperu.github.io/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>ゲーム</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+        <link>https://hiroperu.github.io/categories/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
         <pubDate>Tue, 22 Feb 2022 23:53:58 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+        <guid>https://hiroperu.github.io/categories/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>スマホゲーム</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+        <link>https://hiroperu.github.io/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/</link>
         <pubDate>Tue, 22 Feb 2022 23:53:58 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+        <guid>https://hiroperu.github.io/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>日常</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%97%A5%E5%B8%B8/</link>
+        <link>https://hiroperu.github.io/categories/%E6%97%A5%E5%B8%B8/</link>
         <pubDate>Sun, 20 Feb 2022 13:48:33 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/%E6%97%A5%E5%B8%B8/</guid>
+        <guid>https://hiroperu.github.io/categories/%E6%97%A5%E5%B8%B8/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>買った物</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/</link>
+        <link>https://hiroperu.github.io/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/</link>
         <pubDate>Wed, 16 Feb 2022 00:01:28 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/</guid>
+        <guid>https://hiroperu.github.io/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>

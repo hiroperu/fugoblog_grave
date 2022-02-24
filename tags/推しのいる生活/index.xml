@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>推しのいる生活 on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/tags/%E6%8E%A8%E3%81%97%E3%81%AE%E3%81%84%E3%82%8B%E7%94%9F%E6%B4%BB/</link>
+    <link>https://hiroperu.github.io/tags/%E6%8E%A8%E3%81%97%E3%81%AE%E3%81%84%E3%82%8B%E7%94%9F%E6%B4%BB/</link>
     <description>Recent content in 推しのいる生活 on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,23 +16,23 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 22 Feb 2022 23:53:58 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/tags/%E6%8E%A8%E3%81%97%E3%81%AE%E3%81%84%E3%82%8B%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/tags/%E6%8E%A8%E3%81%97%E3%81%AE%E3%81%84%E3%82%8B%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>アズールレーンはいいぞ！という話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/azullane_is_fun/</link>
+        <link>https://hiroperu.github.io/posts/azullane_is_fun/</link>
         <pubDate>Tue, 22 Feb 2022 23:53:58 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Tue, 22 Feb 2022 23:53:58 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/azullane_is_fun/</guid>
+        <guid>https://hiroperu.github.io/posts/azullane_is_fun/</guid>
         <description>アズールレーンはいいぞ！という話 アズールレーン！そんな声が起動時に鳴り響くゲームを知っていますか。 そうです。大人気スマホ向け艦船擬人化シュー</description>
         
         <dc:creator>hiroperu</dc:creator>
         
         
-        <media:content url="https://hiroperu.github.io/hiroperuLifeLog//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

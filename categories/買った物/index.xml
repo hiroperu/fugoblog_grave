@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>買った物 on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/</link>
+    <link>https://hiroperu.github.io/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/</link>
     <description>Recent content in 買った物 on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 16 Feb 2022 00:01:28 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/categories/%E8%B2%B7%E3%81%A3%E3%81%9F%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>ダイエットのためにルームランナー（トレッドミル）を買った話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/buy_treadmill/</link>
+        <link>https://hiroperu.github.io/posts/buy_treadmill/</link>
         <pubDate>Wed, 16 Feb 2022 00:01:28 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Wed, 16 Feb 2022 00:01:28 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/buy_treadmill/</guid>
+        <guid>https://hiroperu.github.io/posts/buy_treadmill/</guid>
         <description>ダイエットのためにルームランナー（トレッドミル）を買った話 私は今年で33になる中年まっしぐらの男です。2021年の秋頃まではケトジェニックダ</description>
         
         <dc:creator>hiroperu</dc:creator>

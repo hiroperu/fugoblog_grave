@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>スマホゲーム on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+    <link>https://hiroperu.github.io/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/</link>
     <description>Recent content in スマホゲーム on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,23 +16,23 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 22 Feb 2022 23:53:58 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/categories/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>アズールレーンはいいぞ！という話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/azullane_is_fun/</link>
+        <link>https://hiroperu.github.io/posts/azullane_is_fun/</link>
         <pubDate>Tue, 22 Feb 2022 23:53:58 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Tue, 22 Feb 2022 23:53:58 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/azullane_is_fun/</guid>
+        <guid>https://hiroperu.github.io/posts/azullane_is_fun/</guid>
         <description>アズールレーンはいいぞ！という話 アズールレーン！そんな声が起動時に鳴り響くゲームを知っていますか。 そうです。大人気スマホ向け艦船擬人化シュー</description>
         
         <dc:creator>hiroperu</dc:creator>
         
         
-        <media:content url="https://hiroperu.github.io/hiroperuLifeLog//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

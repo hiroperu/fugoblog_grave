@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>自家焙煎 on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/tags/%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E/</link>
+    <link>https://hiroperu.github.io/tags/%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E/</link>
     <description>Recent content in 自家焙煎 on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 16 Feb 2022 23:36:10 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/tags/%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/tags/%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>珈琲豆の自家焙煎は楽しいし美味しいし安いという話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/coffee_home_roast/</link>
+        <link>https://hiroperu.github.io/posts/coffee_home_roast/</link>
         <pubDate>Wed, 16 Feb 2022 23:36:10 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Wed, 16 Feb 2022 23:36:10 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/coffee_home_roast/</guid>
+        <guid>https://hiroperu.github.io/posts/coffee_home_roast/</guid>
         <description>珈琲豆の自家焙煎は楽しいし美味しいし安いという話 珈琲って美味しいですよね。インスタントで楽しむのもよし、缶コーヒーで楽しむのもよし、ハンドド</description>
         
         <dc:creator>hiroperu</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>blog on Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/tags/blog/</link>
+    <link>https://hiroperu.github.io/tags/blog/</link>
     <description>Recent content in blog on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,23 +16,23 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 24 Feb 2022 18:36:08 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</link>
+        <link>https://hiroperu.github.io/posts/hugoblog_builddeploy_githubaction/</link>
         <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Thu, 24 Feb 2022 18:36:08 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</guid>
+        <guid>https://hiroperu.github.io/posts/hugoblog_builddeploy_githubaction/</guid>
         <description>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話 このブログはHugoを使って作成し、ホスティングをgithub.io</description>
         
         <dc:creator>hiroperu</dc:creator>
         
         
-        <media:content url="https://hiroperu.github.io/hiroperuLifeLog//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

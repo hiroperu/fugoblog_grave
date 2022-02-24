@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hiroperu&#39;s Life</title>
-    <link>https://hiroperu.github.io/hiroperuLifeLog/</link>
+    <link>https://hiroperu.github.io/</link>
     <description>Recent content on Hiroperu&#39;s Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,7 +16,7 @@
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 24 Feb 2022 18:36:08 +0900</lastBuildDate>
     
-        <atom:link href="https://hiroperu.github.io/hiroperuLifeLog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hiroperu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -43,17 +43,17 @@
       
       <item>
         <title>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</link>
+        <link>https://hiroperu.github.io/posts/hugoblog_builddeploy_githubaction/</link>
         <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Thu, 24 Feb 2022 18:36:08 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/hugoblog_builddeploy_githubaction/</guid>
+        <guid>https://hiroperu.github.io/posts/hugoblog_builddeploy_githubaction/</guid>
         <description>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話 このブログはHugoを使って作成し、ホスティングをgithub.io</description>
         
         <dc:creator>hiroperu</dc:creator>
         
         
-        <media:content url="https://hiroperu.github.io/hiroperuLifeLog//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -97,17 +97,17 @@
       
       <item>
         <title>アズールレーンはいいぞ！という話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/azullane_is_fun/</link>
+        <link>https://hiroperu.github.io/posts/azullane_is_fun/</link>
         <pubDate>Tue, 22 Feb 2022 23:53:58 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Tue, 22 Feb 2022 23:53:58 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/azullane_is_fun/</guid>
+        <guid>https://hiroperu.github.io/posts/azullane_is_fun/</guid>
         <description>アズールレーンはいいぞ！という話 アズールレーン！そんな声が起動時に鳴り響くゲームを知っていますか。 そうです。大人気スマホ向け艦船擬人化シュー</description>
         
         <dc:creator>hiroperu</dc:creator>
         
         
-        <media:content url="https://hiroperu.github.io/hiroperuLifeLog//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -147,11 +147,11 @@
       
       <item>
         <title>ブルーボトルコーヒーのコーヒードリッパーが簡単に安定した美味しい珈琲が入れられるという話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/coffee_dripper_bluebottle/</link>
+        <link>https://hiroperu.github.io/posts/coffee_dripper_bluebottle/</link>
         <pubDate>Sun, 20 Feb 2022 13:48:33 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Sun, 20 Feb 2022 13:48:33 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/coffee_dripper_bluebottle/</guid>
+        <guid>https://hiroperu.github.io/posts/coffee_dripper_bluebottle/</guid>
         <description>ブルーボトルコーヒーのコーヒードリッパーが簡単に安定した美味しい珈琲が入れられるという話 コーヒードリッパー、ハンドドリップをする人なら1つは</description>
         
         <dc:creator>hiroperu</dc:creator>
@@ -189,11 +189,11 @@
       
       <item>
         <title>珈琲豆の自家焙煎は楽しいし美味しいし安いという話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/coffee_home_roast/</link>
+        <link>https://hiroperu.github.io/posts/coffee_home_roast/</link>
         <pubDate>Wed, 16 Feb 2022 23:36:10 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Wed, 16 Feb 2022 23:36:10 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/coffee_home_roast/</guid>
+        <guid>https://hiroperu.github.io/posts/coffee_home_roast/</guid>
         <description>珈琲豆の自家焙煎は楽しいし美味しいし安いという話 珈琲って美味しいですよね。インスタントで楽しむのもよし、缶コーヒーで楽しむのもよし、ハンドド</description>
         
         <dc:creator>hiroperu</dc:creator>
@@ -231,11 +231,11 @@
       
       <item>
         <title>ダイエットのためにルームランナー（トレッドミル）を買った話</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/buy_treadmill/</link>
+        <link>https://hiroperu.github.io/posts/buy_treadmill/</link>
         <pubDate>Wed, 16 Feb 2022 00:01:28 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Wed, 16 Feb 2022 00:01:28 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/buy_treadmill/</guid>
+        <guid>https://hiroperu.github.io/posts/buy_treadmill/</guid>
         <description>ダイエットのためにルームランナー（トレッドミル）を買った話 私は今年で33になる中年まっしぐらの男です。2021年の秋頃まではケトジェニックダ</description>
         
         <dc:creator>hiroperu</dc:creator>
@@ -273,11 +273,11 @@
       
       <item>
         <title>はじめまして</title>
-        <link>https://hiroperu.github.io/hiroperuLifeLog/posts/myfirstpost/</link>
+        <link>https://hiroperu.github.io/posts/myfirstpost/</link>
         <pubDate>Sat, 05 Feb 2022 15:12:09 +0900</pubDate>
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         <atom:modified>Sat, 05 Feb 2022 15:12:09 +0900</atom:modified>
-        <guid>https://hiroperu.github.io/hiroperuLifeLog/posts/myfirstpost/</guid>
+        <guid>https://hiroperu.github.io/posts/myfirstpost/</guid>
         <description>こんにちは！だらだら更新していきたい。 好きなことについて、みんなにおすすめしたいと思っています。 技術のことはあんまり書けないけど。趣味はコー</description>
         
         <dc:creator>hiroperu</dc:creator>
