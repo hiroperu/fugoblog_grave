@@ -1724,7 +1724,7 @@
 <div class="single__infos">
   <time class="single__info" title="作成日">📅&nbsp;2022/2/24 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;5&nbsp;分で読めます </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;6&nbsp;分で読めます </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="著者">🤖&nbsp;hiroperu</span>
   
@@ -1799,7 +1799,7 @@
 </ol>
 <p>いろんな記事を参考にしながら作成したyamlファイルは以下です。</p>
 
-<div id="906e7aab35f76c51" class="codetab">
+<div id="6d9e55c860ed64f3" class="codetab">
   <div class="codetab__links">
     
       <button class="codetab__link" aria-label="Tab link">yaml</button>
@@ -1807,7 +1807,7 @@
   </div>
   
   
-<div id="57e291041935b189" class="codetab__content">
+<div id="e68f1dbd79df0cf5" class="codetab__content">
   <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -1867,7 +1867,7 @@
 </span><span class="w">  </span><span class="nt">branches</span><span class="p">:</span><span class="w"> </span><span class="l">master</span><span class="w">
 </span><span class="w">
 </span><span class="w"></span><span class="nt">jobs</span><span class="p">:</span><span class="w">
-</span><span class="w"></span><span class="nt">build-adn-deploy</span><span class="p">:</span><span class="w">
+</span><span class="w"></span><span class="nt">build-and-deploy</span><span class="p">:</span><span class="w">
 </span><span class="w">  </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">build and deploy public</span><span class="w">
 </span><span class="w">  </span><span class="nt">runs-on</span><span class="p">:</span><span class="w"> </span><span class="l">ubuntu-latest</span><span class="w">
 </span><span class="w">  </span><span class="nt">steps</span><span class="p">:</span><span class="w">
@@ -1918,7 +1918,7 @@
 <script>
   'use strict';
 
-  var containerId = JSON.parse("\"906e7aab35f76c51\"");
+  var containerId = JSON.parse("\"6d9e55c860ed64f3\"");
   var containerElem = document.getElementById(containerId);
   var codetabLinks = null;
   var codetabContents = null;
@@ -1989,6 +1989,8 @@ Error: Process completed with exit code 1.
 <li><a href="https://zenn.dev/block/articles/ba618e3dc90f7aff97ba">Zolaで作ったサイトをGitHub ActionsでGitHub PagesにDeployする</a></li>
 <li><a href="https://3nan3.github.io/post/2019122201_github_actions/">GitHub Actions で別のリポジトリに git push する</a></li>
 </ul>
+<h3 id="追記">追記</h3>
+<p>yamlのコード内にbuild-adn-deployとタイプしてた箇所があった。教えていただきありがとうございます。修正しました。</p>
 
     </article>
     
@@ -2717,7 +2719,11 @@ document.addEventListener('DOMContentLoaded', function () {
         <li><a href="#修正したい点-buildした際に変更が発生していない場合はpushしない様にする">修正したい点 buildした際に変更が発生していない場合はpushしない様にする</a></li>
       </ul>
     </li>
-    <li><a href="#おわりに">おわりに</a></li>
+    <li><a href="#おわりに">おわりに</a>
+      <ul>
+        <li><a href="#追記">追記</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
