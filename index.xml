@@ -14,7 +14,7 @@
     <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
     <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 11 Mar 2022 09:42:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Mar 2022 22:37:01 +0900</lastBuildDate>
     
         <atom:link href="https://hiroperu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,48 @@
         
       
 
+      
+      <item>
+        <title>Google Adsenseに落ちたので、質の高いサイトを作成するヒントを読んでみた話</title>
+        <link>https://hiroperu.github.io/posts/read_tips_high_qualitysite_by_google/</link>
+        <pubDate>Sat, 12 Mar 2022 22:37:01 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        <atom:modified>Sat, 12 Mar 2022 22:37:01 +0900</atom:modified>
+        <guid>https://hiroperu.github.io/posts/read_tips_high_qualitysite_by_google/</guid>
+        <description>Google Adsenseに落ちたので、質の高いサイトを作成するヒントを読んでみた話 ブログを書き始めたので、広告収入がほんのちょっとでも入ったら嬉しい</description>
+        
+        <dc:creator>hiroperu</dc:creator>
+        
+        
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>GoogleAdsense</category>
+            
+          
+            
+              <category>blog</category>
+            
+          
+            
+              <category>意訳</category>
+            
+          
+        
+        
+          
+            
+              <category>読んでみた</category>
+            
+          
+            
+              <category>解釈</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>コーヒーサーバにはHARIOのビーカータイプのサーバがいいぞっていう話</title>
