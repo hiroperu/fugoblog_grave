@@ -14,11 +14,47 @@
     <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
     <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 12 Mar 2022 22:37:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Mar 2022 17:36:56 +0900</lastBuildDate>
     
         <atom:link href="https://hiroperu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>おすすめ</title>
+        <link>https://hiroperu.github.io/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</link>
+        <pubDate>Sun, 13 Mar 2022 17:36:56 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        
+        <guid>https://hiroperu.github.io/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</guid>
+        <description></description>
+        
+        <dc:creator>Hiroperu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>日常</title>
+        <link>https://hiroperu.github.io/categories/%E6%97%A5%E5%B8%B8/</link>
+        <pubDate>Sun, 13 Mar 2022 17:36:56 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        
+        <guid>https://hiroperu.github.io/categories/%E6%97%A5%E5%B8%B8/</guid>
+        <description></description>
+        
+        <dc:creator>Hiroperu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>解釈</title>
@@ -45,42 +81,6 @@
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
         <guid>https://hiroperu.github.io/categories/%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%BF%E3%81%9F/</guid>
-        <description></description>
-        
-        <dc:creator>Hiroperu</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>おすすめ</title>
-        <link>https://hiroperu.github.io/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</link>
-        <pubDate>Fri, 11 Mar 2022 09:42:39 +0900</pubDate>
-        <author>hiroperu.life@gmail.com (Hiroperu)</author>
-        
-        <guid>https://hiroperu.github.io/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/</guid>
-        <description></description>
-        
-        <dc:creator>Hiroperu</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>日常</title>
-        <link>https://hiroperu.github.io/categories/%E6%97%A5%E5%B8%B8/</link>
-        <pubDate>Fri, 11 Mar 2022 09:42:39 +0900</pubDate>
-        <author>hiroperu.life@gmail.com (Hiroperu)</author>
-        
-        <guid>https://hiroperu.github.io/categories/%E6%97%A5%E5%B8%B8/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>
