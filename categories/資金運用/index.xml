@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>資金運用 on Hiroperu&#39;s Life</title>
+    <link>https://hiroperu.github.io/categories/%E8%B3%87%E9%87%91%E9%81%8B%E7%94%A8/</link>
+    <description>Recent content in 資金運用 on Hiroperu&#39;s Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
+    <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Mar 2022 23:57:52 +0900</lastBuildDate>
+    
+        <atom:link href="https://hiroperu.github.io/categories/%E8%B3%87%E9%87%91%E9%81%8B%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>DMM FXのセルフバックで本当に3万円ゲットできた話</title>
+        <link>https://hiroperu.github.io/posts/selfback_reward_30k_dmm/</link>
+        <pubDate>Thu, 17 Mar 2022 23:57:52 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        <atom:modified>Thu, 17 Mar 2022 23:57:52 +0900</atom:modified>
+        <guid>https://hiroperu.github.io/posts/selfback_reward_30k_dmm/</guid>
+        <description>DMM FXのセルフバックで本当に3万円ゲットできた話 こんな趣味の雑記ブログを書いていても、アフィリエイト的なものには興味があるわけで、かの有名な</description>
+        
+        <dc:creator>hiroperu</dc:creator>
+        
+        
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>DMMFX</category>
+            
+          
+            
+              <category>お小遣い稼ぎ</category>
+            
+          
+        
+        
+          
+            
+              <category>FX</category>
+            
+          
+            
+              <category>資金運用</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
