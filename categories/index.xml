@@ -14,11 +14,47 @@
     <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
     <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 22 Mar 2022 20:07:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2022 09:19:53 +0900</lastBuildDate>
     
         <atom:link href="https://hiroperu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>ソフトウェア</title>
+        <link>https://hiroperu.github.io/categories/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</link>
+        <pubDate>Sun, 03 Apr 2022 09:19:53 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        
+        <guid>https://hiroperu.github.io/categories/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</guid>
+        <description></description>
+        
+        <dc:creator>Hiroperu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>技術</title>
+        <link>https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/</link>
+        <pubDate>Sun, 03 Apr 2022 09:19:53 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        
+        <guid>https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/</guid>
+        <description></description>
+        
+        <dc:creator>Hiroperu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>漫画</title>
@@ -243,24 +279,6 @@
         <author>hiroperu.life@gmail.com (Hiroperu)</author>
         
         <guid>https://hiroperu.github.io/categories/githubactions/</guid>
-        <description></description>
-        
-        <dc:creator>Hiroperu</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>技術</title>
-        <link>https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/</link>
-        <pubDate>Thu, 24 Feb 2022 18:36:08 +0900</pubDate>
-        <author>hiroperu.life@gmail.com (Hiroperu)</author>
-        
-        <guid>https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/</guid>
         <description></description>
         
         <dc:creator>Hiroperu</dc:creator>

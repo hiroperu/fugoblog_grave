@@ -14,11 +14,57 @@
     <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
     <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 18:36:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2022 09:19:53 +0900</lastBuildDate>
     
         <atom:link href="https://hiroperu.github.io/categories/%E6%8A%80%E8%A1%93/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>SpringでWeb APIのレスポンスJSON内のnullを空文字に変換してもらうようにした話</title>
+        <link>https://hiroperu.github.io/posts/tech_java_json_null_to_emptystring/</link>
+        <pubDate>Sun, 03 Apr 2022 09:19:53 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        <atom:modified>Sun, 03 Apr 2022 09:19:53 +0900</atom:modified>
+        <guid>https://hiroperu.github.io/posts/tech_java_json_null_to_emptystring/</guid>
+        <description>やりたいこと Spring MVCでHttpMessageConverterを通してレスポンスボディに設定されるJSONで値が入っていない(null)際に</description>
+        
+        <dc:creator>hiroperu</dc:creator>
+        
+        
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>Spring</category>
+            
+          
+            
+              <category>WebAPI</category>
+            
+          
+            
+              <category>サーバサイドアプリケーション</category>
+            
+          
+        
+        
+          
+            
+              <category>技術</category>
+            
+          
+            
+              <category>ソフトウェア</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Github ActionsでHugoを使ったブログのビルドとデプロイを自動化した話</title>

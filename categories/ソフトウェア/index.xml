@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ソフトウェア on Hiroperu&#39;s Life</title>
+    <link>https://hiroperu.github.io/categories/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/</link>
+    <description>Recent content in ソフトウェア on Hiroperu&#39;s Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>hiroperu.life@gmail.com (Hiroperu)</managingEditor>
+    <webMaster>hiroperu.life@gmail.com (Hiroperu)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 03 Apr 2022 09:19:53 +0900</lastBuildDate>
+    
+        <atom:link href="https://hiroperu.github.io/categories/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>SpringでWeb APIのレスポンスJSON内のnullを空文字に変換してもらうようにした話</title>
+        <link>https://hiroperu.github.io/posts/tech_java_json_null_to_emptystring/</link>
+        <pubDate>Sun, 03 Apr 2022 09:19:53 +0900</pubDate>
+        <author>hiroperu.life@gmail.com (Hiroperu)</author>
+        <atom:modified>Sun, 03 Apr 2022 09:19:53 +0900</atom:modified>
+        <guid>https://hiroperu.github.io/posts/tech_java_json_null_to_emptystring/</guid>
+        <description>やりたいこと Spring MVCでHttpMessageConverterを通してレスポンスボディに設定されるJSONで値が入っていない(null)際に</description>
+        
+        <dc:creator>hiroperu</dc:creator>
+        
+        
+        <media:content url="https://hiroperu.github.io//images/whoami/avatar.jpg" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>Spring</category>
+            
+          
+            
+              <category>WebAPI</category>
+            
+          
+            
+              <category>サーバサイドアプリケーション</category>
+            
+          
+        
+        
+          
+            
+              <category>技術</category>
+            
+          
+            
+              <category>ソフトウェア</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
